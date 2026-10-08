@@ -1,6 +1,7 @@
 ![Header](images/header.png)
 
-# FlyRank Capstone — Multi‑Platform Social Campaign Publisher + LLM API Integration
+# Put an LLM behind your API — Connect to an AI API
+
 
 ![FlyRank AI](https://img.shields.io/badge/FlyRank%20AI-Project-blue?style=for-the-badge&logo=github)
 ![Backend AI Engineering](https://img.shields.io/badge/Track-Backend%20AI%20Engineering-green?style=for-the-badge&logo=node.js)
