@@ -162,4 +162,4 @@ MIT License — free to use and learn from.
 
 ![Footer](images/footer.png)
 
- © Leonard Phokane 2026. All rights reserved.
+ © 2026 Leonard Phokane | All rights reserved.
