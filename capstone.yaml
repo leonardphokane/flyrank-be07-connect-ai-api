@@ -1,0 +1,25 @@
+name: FlyRank Capstone
+description: Multi‑Platform Social Campaign Publisher with LLM API integration
+owner: Leonard Phokane
+files:
+  - README.md
+  - JOB-CARD.md
+  - capstone.yaml
+  - EVIDENCE.md
+  - BUILDLOG.md
+  - .env.example
+  - src/index.js
+  - src/config/env.js
+  - src/routes/triage.js
+  - src/services/llmClient.js
+  - src/utils/logger.js
+  - src/utils/retry.js
+  - src/validation/schema.js
+  - prompts/triage_v1.txt
+  - tests/triage.test.js
+requirements:
+  - Durable queue with retry‑after handling
+  - Webhook signature verification
+  - Idempotency key per publish
+  - LLM API endpoint with kill switch
+  - Evidence of reliability (tests, logs)
